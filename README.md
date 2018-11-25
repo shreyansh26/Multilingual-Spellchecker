@@ -1,3 +1,3 @@
-# Multilingual-Spellchecker
+# Multilingual Spellchecker
 
 Details coming soon!
